@@ -11,3 +11,5 @@ You will need to copy the following files (and possible more) from your RTL fold
 - IdCompilerDefines.inc
 
 This isn't officially supported, and only has limited testing. Your mileage may vary. 
+
+This was developed and tested in Delphi 10.3.1 Rio.
