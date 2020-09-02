@@ -1,4 +1,4 @@
-# DelphiAndroidWebBroker
+# Delphi Android WebBroker Webserver
 
 This is a standalone Web Broker app ported to Android. It has a TDataModule instead of a form, so there is no GUI. It is tested to work under [Android Things](https://developer.android.com/things) and [Emteria.OS](https://emteria.com/) on Raspberry Pi 3.
 
